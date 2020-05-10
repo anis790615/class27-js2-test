@@ -50,7 +50,7 @@
       - Return the array of numbers
 
       Expected output:
-      [1, 2, 3, 4]
+      [0, 1, 2, 3]
 
       Use the following array: const letters = ['a', 'b', 'c', 'd'];
 */
